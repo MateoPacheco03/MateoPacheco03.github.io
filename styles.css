@@ -1,18 +1,53 @@
-header{
-background-color: #E5D9F2;
+header {
+    background-color: #E5D9F2;
 }
-body{
-    
+
+body {
+    size-adjust: 100%;
     background-color: #A594F9;
 }
-footer{
+
+footer {
     background-color: #CDC1FF;
 }
-#imgGato{
+
+#mostrador {
+    width: 1920px;
+    height: 600px;
+}
+
+#imgGato {
     width: 50px;
     height: 50px;
 }
-.iconosRedes{
+
+.imagenHelados {
+    width: 300px;
+}
+
+.iconosRedes {
     width: 30px;
     height: 30px;
+}
+
+.horarioDeServicio {
+    background-color: antiquewhite;
+}
+
+.horarioDeAtencion {
+    font-family: monospace;
+}
+
+.formulario_contacto {
+    background-color: firebrick;
+    border-radius: 10%;
+}
+
+.motivoMensaje {
+    height: 50px;
+    font-size: 18px;
+}
+
+.saboresHelados {
+    display: inline-block;
 }
