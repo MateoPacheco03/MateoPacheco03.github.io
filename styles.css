@@ -44,6 +44,11 @@ form {
     align-content: center;
 }
 
+li {
+    list-style: none;
+}
+
+
 #mostrador {
     width: 100%;
     height: 450px;
@@ -63,6 +68,13 @@ form {
     display: flex;
     height: 200px;
     align-content: center;
+}
+
+#gatoProductos {
+    display: flex;
+    height: 150px;
+    margin-top: 300px;
+    margin-bottom: 70px;
 }
 
 .saboresHelados {
@@ -170,7 +182,7 @@ form {
     position: absolute;
     left: 3px;
     top: 700px;
-    background-color: black;
+    margin-top: 60px;
 }
 
 #asideOpinion {
@@ -230,6 +242,13 @@ h2 {
 h3 {
     font-size: 25px;
     text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    color: brown;
 }
 
 fieldset {

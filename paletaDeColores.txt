@@ -1,2 +1,2 @@
-paleta 1 https://colorhunt.co/palette/e5d9f2f5efffcdc1ffa594f9
+paleta 1 https://colorhunt.co/palette/e5d9f2f5efffcdc1ffa594f9 <-- para el proyecto usamos esta. 
 paleta 2 https://colorhunt.co/palette/8174a0a888b5efb6c8ffd2a0
